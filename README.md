@@ -1,1 +1,1 @@
-# workshop-phpwomen-phpoo
+# Workshop PHPWomenBR
